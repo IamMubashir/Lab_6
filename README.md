@@ -1,4 +1,4 @@
 # Lab_6
-want to explore conflicts issues.
+want to explore conflicts issues. cout<<endl;
 In this lab, I understand the concept of “Conflicting issues” when I merge
 branches into one another (or the main branch).
